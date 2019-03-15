@@ -14,7 +14,7 @@ public class TestClass {
 	
 	@Test
 		//this is a demo for extent reports
-		public void verifySeleniumBlog() {
+		public void verifySeleniumBlogExtentReports() {
 
 			String extentReportFile = System.getProperty("user.dir")
 					+ "\\extentReportFile.html";
