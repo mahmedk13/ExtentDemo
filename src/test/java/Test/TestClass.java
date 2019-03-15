@@ -13,7 +13,7 @@ public class TestClass {
 	
 	
 	@Test
-	
+		//this is a demo for extent reports
 		public void verifySeleniumBlog() {
 
 			String extentReportFile = System.getProperty("user.dir")
